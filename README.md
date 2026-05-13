@@ -3,6 +3,7 @@
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -50,10 +51,8 @@ plot_tree(
 
 plt.show()
 ```
-
 ## Output:
 <img width="1380" height="745" alt="image" src="https://github.com/user-attachments/assets/e624dda4-3d22-4760-9650-eee93a27d92b" />
-
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
